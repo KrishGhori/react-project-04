@@ -29,7 +29,10 @@ react-project-four/
 ├── package.json
 └── README.md
 
+Install project dependencies:
 npm install
+
+Start the development server:
 npm run dev
 
 
