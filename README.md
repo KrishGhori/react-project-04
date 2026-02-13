@@ -15,7 +15,11 @@ A React-based web application built to practice component structure, state manag
 - CSS
 - Vite (if used)
 
-Project Structure
+---
+
+## 📁 Project Structure
+
+```text
 react-project-four/
 ├── public/
 ├── src/
@@ -25,13 +29,10 @@ react-project-four/
 ├── package.json
 └── README.md
 
-Install dependencies
-
 npm install
-
-Run the project
-
 npm run dev
+
+
 
 ## Author
 
