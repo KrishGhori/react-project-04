@@ -33,12 +33,10 @@ react-project-four/
 ## Install project dependencies:
 ```
   npm install
-
 ```
 Start the development server:
 ```
 npm run dev
-
 ```
 ## Author
 
