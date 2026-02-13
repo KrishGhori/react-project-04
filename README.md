@@ -32,7 +32,7 @@ react-project-four/
 ```
 ## Install project dependencies:
 ```
-  npm install
+npm install
 ```
 Start the development server:
 ```
